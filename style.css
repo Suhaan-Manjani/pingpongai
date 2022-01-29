@@ -1,0 +1,15 @@
+body
+{
+ align: center;
+}
+
+ .button
+ {
+     color: orange;
+    border: 10px;
+ }
+
+.bgImage
+{
+    width: 100%;
+}
